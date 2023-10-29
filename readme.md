@@ -1,8 +1,9 @@
 # Node API Proxy Server Tutorial
 
-## Reference
-From: https://youtu.be/ZGymN8aFsv4
-Reference Source Code: https://github.com/bradtraversy/node-api-proxy-server
+## Reference Video & Source Code
+https://youtu.be/ZGymN8aFsv4
+
+https://github.com/bradtraversy/node-api-proxy-server
 
 ## To start:
 ```
