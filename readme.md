@@ -10,6 +10,11 @@ https://github.com/bradtraversy/node-api-proxy-server
 npm run dev
 ```
 
+## Launch UI:
+```
+http://localhost:5000/
+```
+
 ## Curl for Postman:
 ```
 curl --location 'http://localhost:5000/api?zip=08852%2Cus'
